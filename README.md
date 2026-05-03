@@ -1,1 +1,1 @@
-# Per-element-SecAgg
+# Per-element Secure Aggregation Protocol
