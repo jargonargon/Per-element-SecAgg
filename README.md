@@ -21,5 +21,5 @@ This implementation is based on Flamingo [4, 5], a committee-based Secure Aggreg
 [5] Y. Ma, J. Woods, S. Angel, A. Polychroniadou, and T. Rabin, “Flamingo: Multi-round single-server secure aggregation with applications to private federated learning,” in 2023 IEEE Symposium on Security and Privacy (SP), IEEE, May 2023, pp. 477–496.
 
 
-> Note
-> Please note that this implementation and the publicly available programs will be updated according to the progress of this research paper.
+> [!NOTE]
+> This implementation and the publicly available programs will be updated according to the progress of this research paper.
