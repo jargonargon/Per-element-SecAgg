@@ -11,7 +11,11 @@ This implementation is based on Flamingo [4, 5], a committee-based Secure Aggreg
 
 
 [1] https://arxiv.org/abs/2508.04285
+
 [2] https://github.com/abides-sim/abides
+
 [3] D. Byrd, M. Hybinette, and T. H. Balch, “ABIDES: Towards high-fidelity multi-agent market simulation,” in Proceedings of the 2020 ACM SIGSIM Conference on Principles of Advanced Discrete Simulation, New York, NY, USA: ACM, June 2020. doi: 10.1145/3384441.3395986.
+
 [4] https://github.com/eniac/flamingo
+
 [5] Y. Ma, J. Woods, S. Angel, A. Polychroniadou, and T. Rabin, “Flamingo: Multi-round single-server secure aggregation with applications to private federated learning,” in 2023 IEEE Symposium on Security and Privacy (SP), IEEE, May 2023, pp. 477–496.
